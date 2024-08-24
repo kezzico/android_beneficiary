@@ -1,4 +1,4 @@
-# Project Name
+# Android Beneficiary
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -47,5 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 Lee Irvine is a technical consultant skilled in mobile technology. He is experienced in a range of different cross platform and native rendering technologies including UIKit, React Native, Flutter, and Android Views.
 
 [LinkedIn Profile](https://www.linkedin.com/in/lee-irvine-b2617913/)
+
 [Resume](http://kezzi.co/lee-resume)
+
 [Code walkthrough](https://drive.google.com/file/d/1piyeun7zZ1rMVJG0D10pKX8cezL190yA/view?usp=share_link)
