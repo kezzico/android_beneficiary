@@ -6,6 +6,8 @@
 
 This project is a Android Native application that reads a JSON file containing an Array and displays some of the data in a RecyclerView. The RecyclerView is used to efficiently display a large list of items, and the JSON data is parsed and displayed using a custom adapter.
 
+Checkout the [code walkthrough](https://drive.google.com/file/d/1piyeun7zZ1rMVJG0D10pKX8cezL190yA/view?usp=share_link) for a tour of the Android Beneficiary's codebase.
+
 This application does not use Jetpack, Hermes, or Android XML. All views are created in code
 
 ## Usage
